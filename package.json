@@ -1,0 +1,21 @@
+{
+	"name": "uri-parser",
+	"description": "",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jmike/uri-parser.git"
+	},
+	"main": "source/index.js",
+	"dependencies": {
+		"coffee-script": "latest",
+		"jison": "latest"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	}
+
+}

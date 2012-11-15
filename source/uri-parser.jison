@@ -1,0 +1,5 @@
+/* lexical grammar */
+%lex
+%%
+
+"*"                   return '*'
